@@ -7,6 +7,7 @@ HealthIT Data Science Hackathon
 
 Work Presented by The Blue Neon Group
 * Theophilus Lincoln Owiti
+* David Saruni
 * Mercy Mburu
 * Teresa Chebet
 * Ian Kiprotich
